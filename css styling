@@ -1,0 +1,33 @@
+.redbox{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.bluebox{
+  position: relative;
+  top: 100px;
+  width: 300px;
+  height: 400px;
+  background-color: blue;
+  border: solid 2px red;
+}
+
+.greenbox{
+  position: relative;
+  top: 400px;
+  width: 250px;
+  height: 600px;
+  background-color: green;
+  border-radius: 6px;
+}
+.h1tag{
+  color: white;
+  text-align: center;
+  width: 400px;
+}
+
+.h2tag{
+  width: 800px;
+  text-align: right;
+  color: orange;
+}
